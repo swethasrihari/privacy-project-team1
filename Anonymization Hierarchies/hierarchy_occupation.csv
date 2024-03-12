@@ -1,0 +1,14 @@
+Adm-clerical;White-Collar;*
+Exec-managerial;White-Collar;*
+Sales;White-Collar;*
+Tech-support;White-Collar;*
+Armed-Forces;Blue-Collar;*
+Craft-repair;Blue-Collar;*
+Farming-fishing;Blue-Collar;*
+Handlers-cleaners;Blue-Collar;*
+Machine-op-inspct;Blue-Collar;*
+Other-service;Blue-Collar;*
+Priv-house-serv;Blue-Collar;*
+Prof-specialty;Blue-Collar;*
+Protective-serv;Blue-Collar;*
+Transport-moving;Blue-Collar;*

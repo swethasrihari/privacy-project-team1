@@ -1,0 +1,7 @@
+Federal-gov;Public;*
+Local-gov;Public;*
+State-gov;Public;*
+Private;Private;*
+Self-emp-inc;Private;*
+Self-emp-not-inc;Private;*
+Without-pay;Unemployed;*
